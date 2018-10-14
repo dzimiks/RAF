@@ -106,5 +106,4 @@ venv.bak/
 .DS_Store
 .idea/
 .directory
-*.iml
-*.class
+
